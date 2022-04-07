@@ -2,6 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+.bg-kota-background{
+  /* background-image: url("https://eskort.com/wp-content/uploads/2020/11/Eskort-Garlic-Polony-Kota.jpg");
+  height: auto;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* position: fixed; */
+  /* filter: blur(8px); */
+}
+/* body{
+  background-image: url("https://eskort.com/wp-content/uploads/2020/11/Eskort-Garlic-Polony-Kota.jpg");
+  height: auto;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* filter: blur(8px); */
+  /* position: fixed; */
+/* }  */
+
 /* Hide input number spinners */
 input[type='number']::-webkit-inner-spin-button,
 input[type='number']::-webkit-outer-spin-button {
